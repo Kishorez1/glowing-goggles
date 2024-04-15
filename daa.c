@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 #include <float.h>
-
 typedef struct point {
     int x, y;
 } point;
